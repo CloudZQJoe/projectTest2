@@ -8,5 +8,6 @@
  
   <modules>
     <module>lg-sso</module>
+    <module>lg-image</module>
   </modules>
 </project>
